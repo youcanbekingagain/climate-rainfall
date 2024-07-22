@@ -102,7 +102,7 @@ def plot_line_chart(df, granularity):
     return fig
 
 
-def plot_map_or_chart(df, granularity, plot_type):
+def plot_map_or_chart(df, granularity, variable, plot_type):
     # Remove -999 values before aggregation
     df = df[df["rain"] != -999]
     df = df[df["tmin"] != -999]
@@ -116,7 +116,7 @@ def plot_map_or_chart(df, granularity, plot_type):
         )
 
     if plot_type == "choropleth_mapbox":
-        return plot_choropleth_map(df, granularity)
+        return plot_choropleth_map(df, granularity, variable)
     elif plot_type == "barchart":
         return plot_barchart(df, granularity)
     elif plot_type == "scatter":
