@@ -1,0 +1,422 @@
+[
+    {
+        "state": "Maharashtra",
+        "district": "Mumbai",
+        "lat": 19.0815772,
+        "long": 72.8866275
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Mumbai Suburban",
+        "lat": 19.0785451,
+        "long": 72.878176
+    },
+    {
+        "state": "Delhi",
+        "district": "New Delhi",
+        "lat": 28.6138954,
+        "long": 77.2090057
+    },
+    {
+        "state": "Tamil Nadu",
+        "district": "Chennai",
+        "lat": 13.0836939,
+        "long": 80.270186
+    },
+    {
+        "state": "Telangana",
+        "district": "Hyderabad",
+        "lat": 17.360589,
+        "long": 78.4740613
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "lat": 18.521428,
+        "long": 73.8544541
+    },
+    {
+        "state": "Gujarat",
+        "district": "Ahmedabad",
+        "lat": 23.0216238,
+        "long": 72.5797068
+    },
+    {
+        "state": "Gujarat",
+        "district": "Surat",
+        "lat": 21.2094892,
+        "long": 72.8317058
+    },
+    {
+        "state": "Rajasthan",
+        "district": "Jaipur",
+        "lat": 26.9154576,
+        "long": 75.8189817
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Kanpur Dehat",
+        "lat": 26.4585639,
+        "long": 79.8548052
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "lat": 26.8381,
+        "long": 80.9346001
+    },
+    {
+        "state": "Bihar",
+        "district": "Patna",
+        "lat": 25.6093239,
+        "long": 85.1235252
+    },
+    {
+        "state": "Madhya Pradesh",
+        "district": "Indore",
+        "lat": 22.7203616,
+        "long": 75.8681996
+    },
+    {
+        "state": "Madhya Pradesh",
+        "district": "Bhopal",
+        "lat": 23.2584857,
+        "long": 77.401989
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Nagpur",
+        "lat": 21.1498134,
+        "long": 79.0820556
+    },
+    {
+        "state": "Gujarat",
+        "district": "Vadodara",
+        "lat": 22.2973142,
+        "long": 73.1942567
+    },
+    {
+        "state": "Gujarat",
+        "district": "Surat",
+        "lat": 21.2094892,
+        "long": 72.8317058
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Agra",
+        "lat": 27.1752554,
+        "long": 78.0098161
+    },
+    {
+        "state": "Punjab",
+        "district": "Amritsar",
+        "lat": 31.6343083,
+        "long": 74.8736788
+    },
+    {
+        "state": "Punjab",
+        "district": "Ludhiana",
+        "lat": 30.9090157,
+        "long": 75.851601
+    },
+    {
+        "state": "Punjab",
+        "district": "Jalandhar",
+        "lat": 31.2922311,
+        "long": 75.5678878
+    },
+    {
+        "state": "Chandigarh",
+        "district": "Chandigarh",
+        "lat": 30.7334421,
+        "long": 76.7797143
+    },
+    {
+        "state": "Haryana",
+        "district": "Faridabad",
+        "lat": 28.4031478,
+        "long": 77.3105561
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Ghaziabad",
+        "lat": 28.7678881,
+        "long": 77.4606672
+    },
+    {
+        "state": "Uttarakhand",
+        "district": "Dehradun",
+        "lat": 30.3255646,
+        "long": 78.0436813
+    },
+    {
+        "state": "Uttarakhand",
+        "district": "Haridwar",
+        "lat": 29.9384473,
+        "long": 78.1452985
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Aligarh",
+        "lat": 27.8761073,
+        "long": 78.1358153
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Meerut",
+        "lat": 29.0018557,
+        "long": 77.7679671
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "lat": 25.3356491,
+        "long": 83.0076292
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Gorakhpur",
+        "lat": 26.6677977,
+        "long": 83.3642334
+    },
+    {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "lat": 25.4381302,
+        "long": 81.8338005
+    },
+    {
+        "state": "Jharkhand",
+        "district": "Ranchi",
+        "lat": 23.3700501,
+        "long": 85.3250387
+    },
+    {
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "lat": 17.7231276,
+        "long": 83.3012842
+    },
+    {
+        "state": "Tamil Nadu",
+        "district": "Madurai",
+        "lat": 9.9261153,
+        "long": 78.1140983
+    },
+    {
+        "state": "Tamil Nadu",
+        "district": "Coimbatore",
+        "lat": 11.0018115,
+        "long": 76.9628425
+    },
+    {
+        "state": "Bihar",
+        "district": "Aurangabad",
+        "lat": 24.7536696,
+        "long": 84.3746725
+    },
+    {
+        "state": "Telangana",
+        "district": "Warangal",
+        "lat": 17.9820644,
+        "long": 79.5970954
+    },
+    {
+        "state": "Rajasthan",
+        "district": "Udaipur",
+        "lat": 24.578721,
+        "long": 73.6862571
+    },
+    {
+        "state": "Rajasthan",
+        "district": "Jodhpur",
+        "lat": 26.2967719,
+        "long": 73.0351433
+    },
+    {
+        "state": "Rajasthan",
+        "district": "Kota",
+        "lat": 25.196683,
+        "long": 76.0009687
+    },
+    {
+        "state": "Gujarat",
+        "district": "Rajkot",
+        "lat": 22.3053263,
+        "long": 70.8028377
+    },
+    {
+        "state": "Gujarat",
+        "district": "Jamnagar",
+        "lat": 22.4732415,
+        "long": 70.0552102
+    },
+    {
+        "state": "Gujarat",
+        "district": "Bhavnagar",
+        "lat": 21.7718836,
+        "long": 72.1416449
+    },
+    {
+        "state": "Delhi",
+        "district": "East",
+        "lat": 28.66242,
+        "long": 77.29122
+    },
+    {
+        "state": "Delhi",
+        "district": "New Delhi",
+        "lat": 28.6138954,
+        "long": 77.2090057
+    },
+    {
+        "state": "Delhi",
+        "district": "North",
+        "lat": 28.6692,
+        "long": 77.22273
+    },
+    {
+        "state": "Delhi",
+        "district": "North East",
+        "lat": 28.6869,
+        "long": 77.30195
+    },
+    {
+        "state": "Delhi",
+        "district": "North West",
+        "lat": 28.70113,
+        "long": 77.10154
+    },
+    {
+        "state": "Delhi",
+        "district": "Shahdara",
+        "lat": 28.6734298,
+        "long": 77.2898858
+    },
+    {
+        "state": "Delhi",
+        "district": "South",
+        "lat": 28.53009,
+        "long": 77.25174
+    },
+    {
+        "state": "Delhi",
+        "district": "South East",
+        "lat": 28.66242,
+        "long": 77.29122
+    },
+    {
+        "state": "Delhi",
+        "district": "South West",
+        "lat": 28.5806,
+        "long": 77.0672
+    },
+    {
+        "state": "Delhi",
+        "district": "West",
+        "lat": 28.65655,
+        "long": 77.10068
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Nagpur",
+        "lat": 21.1498134,
+        "long": 79.0820556
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Nanded",
+        "lat": 19.0940088,
+        "long": 77.4831922
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Nandurbar",
+        "lat": 21.5141622,
+        "long": 74.5405513
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Nashik",
+        "lat": 20.0112475,
+        "long": 73.7902364
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Palghar",
+        "lat": 19.757249,
+        "long": 73.0931199
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Parbhani",
+        "lat": 19.2901981,
+        "long": 76.6026443
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "lat": 18.521428,
+        "long": 73.8544541
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Raigad",
+        "lat": 18.4928092,
+        "long": 73.138071
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "lat": 17.2826079,
+        "long": 73.4569787
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Sangli",
+        "lat": 17.1726928,
+        "long": 74.5867654
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Satara",
+        "lat": 17.6361288,
+        "long": 74.2982781
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Sindhudurg",
+        "lat": 16.1357193,
+        "long": 73.6522086
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Solapur",
+        "lat": 17.8499067,
+        "long": 75.2763203
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Thane",
+        "lat": 19.1943294,
+        "long": 72.9701779
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Wardha",
+        "lat": 20.8256231,
+        "long": 78.6131455
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Washim",
+        "lat": 20.2874178,
+        "long": 77.2369655
+    },
+    {
+        "state": "Maharashtra",
+        "district": "Yavatmal",
+        "lat": 20.0638677,
+        "long": 78.3565663
+    }
+]
