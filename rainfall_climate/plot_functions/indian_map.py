@@ -5,11 +5,11 @@ import json
 
 def plot_choropleth_map(df, granularity, variable):
     if granularity == "district":
-        geojson_filepath = "./utilities/geoBoundaries-IND-ADM2_simplified.geojson"
+        geojson_filepath = "./geoBoundaries-IND-ADM2_simplified.geojson"
         featureidkey = "properties.shapeName"  # Assuming 'shapeName' matches your 'district' column
         locations = "district"
     else:
-        geojson_filepath = "./utilities/indian_states.geojson"
+        geojson_filepath = "./indian_states.geojson"
         featureidkey = "properties.ST_NM"  # Ensure 'ST_NM' matches your 'state' column
         locations = "state"
 
