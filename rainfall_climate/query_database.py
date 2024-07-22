@@ -6,13 +6,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 class PostgresDataHandler:
     def __init__(self):
         self.engine = self.create_engine()
 
     def create_engine(self):
         try:
-            db_url = f"{os.getenv("DATABASE_URL")}"
+            db_url = os.getenv("DATABASE_URL")
             engine = create_engine(db_url)
             print("Successfully connected to the database.")
             return engine
