@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from query_database import PostgresDataHandler
-from plot_functions.indian_map import plot_choropleth_map
+from plot_functions.indian_map import plot_map_or_chart
 
 
 def main():
@@ -60,7 +60,7 @@ def main():
 
     # Plotting
     if data is not None and not data.empty:
-        fig = plot_choropleth_map(data, granularity, variable)
+        fig = plot_map_or_chart(data, granularity, variable)
         st.plotly_chart(fig)
     else:
         st.write("No data found or an error occurred while querying.")
